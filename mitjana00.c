@@ -26,5 +26,5 @@ int main() {
 	return 0;
 	printf("Operació finalitzada amb èxit\n");
 	printf("La mitjana ha estat trobada amb èxit\n");
-	
+
 }
